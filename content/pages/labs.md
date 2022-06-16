@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the laboratory performance, and
+  lists a set of interpretation questions according to the modules along with their
+  answers.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -7,7 +10,7 @@ title: Labs
 uid: 8b88dd46-cc8f-9062-9d7c-8cc6b91e2f49
 ---
 
-While the 7.02 Laboratory Manual is not provided, guidelines for laboratory performance and keeping a laboratory notebook is included, as well as a series of [interpretation questions](#interpretation_questions) and a [virtual appendix]({{< baseurl >}}/pages/related-resources) for each laboratory module.
+While the 7.02 Laboratory Manual is not provided, guidelines for laboratory performance and keeping a laboratory notebook is included, as well as a series of [interpretation questions](#interpretation_questions) and a {{% resource_link 19600174-4085-212a-b754-610eb8f73011 "virtual appendix" %}} for each laboratory module.
 
 Laboratory Performance
 ----------------------
@@ -22,7 +25,7 @@ One important goal of 7.02 / 10.702 is to teach students how to keep a complete 
 2.  It allows other laboratory members to have a reference if they need to repeat your work; and
 3.  It serves as a written record to support data that is published in the scientific literature
 
-A handout describing how to prepare your laboratory notebook each day and how it will be graded. ([PDF]({{< baseurl >}}/resources/nb_guidelines))
+A handout describing how to prepare your laboratory notebook each day and how it will be graded. ({{% resource_link 216ed91a-ed61-15c0-1e9e-ee3d36512c93 "PDF" %}})
 
 ### In Lab Skill (45%)
 
@@ -78,64 +81,64 @@ ANSWERS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Day 1 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen1_interps_sp5))
+Genetics Day 1 Interpretation Questions ({{% resource_link b363c273-562c-a921-2ce4-18de4d75c7d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen1_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Genetics Day 2 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen2_interps_sp5))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen2_interps_ans))
+({{% resource_link 87238c4a-f79c-79d7-a56e-971f66554b76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Day 3 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen3_interps_sp5))
+Genetics Day 2 Interpretation Questions ({{% resource_link 5a8424fe-9e28-9a62-7251-b3ee18986e9b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen3_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Genetics Day 4 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen4_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen4_interps_ans))
+({{% resource_link f908383a-a974-1857-e5cd-8cf453b78584 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Day 5 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen5_interps))
+Genetics Day 3 Interpretation Questions ({{% resource_link 77337c04-df60-98a2-e7f4-3855e6c19d5b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen5_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Genetics Day 6 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen6_interpsfin))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen6_interps_ans))
+({{% resource_link 64a4ef15-c606-427d-80e9-f50e7e47e257 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Day 7 / Protein Biochemistry Day 1 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen7_pbc1interps))
+Genetics Day 4 Interpretation Questions ({{% resource_link fd362068-c638-2178-7c8b-b7464985720d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gen7_interps_ans))
+({{% resource_link 379f43e1-708a-1ac0-7571-74713c4e2561 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Genetics Day 5 Interpretation Questions ({{% resource_link c30a461c-b914-7dc6-1067-b9dd51faa7f7 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link bc52190e-00bb-487c-127c-927f1810027d "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Genetics Day 6 Interpretation Questions ({{% resource_link c95d0b34-f076-512f-bf41-f9f1d6663c86 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 37d187e2-a0d0-c29c-9209-243c4f7f0b46 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Genetics Day 7 / Protein Biochemistry Day 1 Interpretation Questions ({{% resource_link a20e727c-babb-3116-186b-3f23c1a5219d "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link be02d338-c3ed-f7ba-0328-b0fe0533d20d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,55 +150,55 @@ Genetics Day 7 / Protein Biochemistry Day 1 Interpretation Questions ([PDF]({{< 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Day 7 / Protein Biochemistry Day 1 Interpretation Questions ([PDF]({{< baseurl >}}/resources/gen7_pbc1interps))
+Genetics Day 7 / Protein Biochemistry Day 1 Interpretation Questions ({{% resource_link a20e727c-babb-3116-186b-3f23c1a5219d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc1_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Protein Biochemistry Day 2 Interpretation Questions ([PDF]({{< baseurl >}}/resources/pbc2_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc2_interps_ans))
+({{% resource_link f7c47921-bf30-89de-3dfb-ee0aa82e4f21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Protein Biochemistry Day 3 Interpretation Questions ([PDF]({{< baseurl >}}/resources/pbc_day3_interps))
+Protein Biochemistry Day 2 Interpretation Questions ({{% resource_link ee2ac5ad-0f74-db8a-607e-032df724ad05 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc3_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Protein Biochemistry Day 4 Interpretation Questions ([PDF]({{< baseurl >}}/resources/pbc4_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc4_interps_ans))
+({{% resource_link de117e97-f984-abd4-8892-934d8e9e4ab6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Protein Biochemistry Day 5 Interpretation Questions ([PDF]({{< baseurl >}}/resources/pbc_day5_interps))
+Protein Biochemistry Day 3 Interpretation Questions ({{% resource_link 859503ff-40a7-3be1-de5a-4299956d7ad6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc5_interps_ans))
+({{% resource_link 9776b3ca-2eab-30f9-6590-655bed5631fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Protein Biochemistry Day 6 Interpretation Questions ([PDF]({{< baseurl >}}/resources/pbc6_interps))
+Protein Biochemistry Day 4 Interpretation Questions ({{% resource_link 0156355b-4628-66c8-e1a5-280d57e72a52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/pbc6_interps_ans))
+({{% resource_link 5f973849-8dc4-4c40-1483-72c3937a7c21 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Biochemistry Day 5 Interpretation Questions ({{% resource_link 2b38e032-6f97-796a-be24-f1b1afad5d41 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 57328cbf-347d-ca41-702b-8f1a80887158 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protein Biochemistry Day 6 Interpretation Questions ({{% resource_link 8f963e36-9430-8e5a-0da4-82fb77bf73bf "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link b68e75c8-cce4-3538-38f2-03826c19bf4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,52 +210,52 @@ Protein Biochemistry Day 6 Interpretation Questions ([PDF]({{< baseurl >}}/resou
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recombinant DNA Methods Day 1 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm1_interps))
+Recombinant DNA Methods Day 1 Interpretation Questions ({{% resource_link 0b61174c-b78c-2b2b-4e99-708b2f7b9dd6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rdm1_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Recombinant DNA Methods Day 2 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm2_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rdm2_interps_ans))
+({{% resource_link e8f75bd9-610e-b930-2d25-cba863af189b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recombinant DNA Methods Day 3 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm_day3_interps))
+Recombinant DNA Methods Day 2 Interpretation Questions ({{% resource_link 5e429f60-02b9-1a24-ebe6-2a4ffaaa2c6e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rdm3_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Recombinant DNA Methods Day 4 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm4_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rdm4_interps_ans))
+({{% resource_link 1c4c5b72-aa14-b1da-e51f-9b733c2eec0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recombinant DNA Methods Day 5 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm5_interps))
+Recombinant DNA Methods Day 3 Interpretation Questions ({{% resource_link 3ef7d4ba-f479-d651-342d-21e8c9986e52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/rdm5_interps_ans))
+({{% resource_link 135cf51a-47d7-1513-b987-c2c9d3724d71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recombinant DNA Methods Day 6/7 Interpretation Questions ([PDF]({{< baseurl >}}/resources/rdm67_interps))
+Recombinant DNA Methods Day 4 Interpretation Questions ({{% resource_link 4be207ab-2193-8a6c-1909-4ddb6c0fd042 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 2678df40-1520-5935-be12-c8d30e443578 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recombinant DNA Methods Day 5 Interpretation Questions ({{% resource_link cf8e09a5-b4c4-813a-4d4a-5201ef5df557 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link d6f6e5a4-aea5-ffe0-bb2d-4cb931200bc0 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recombinant DNA Methods Day 6/7 Interpretation Questions ({{% resource_link f49ee50d-feff-42fc-dae8-0c75be04bbd4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -267,46 +270,46 @@ Recombinant DNA Methods Day 6/7 Interpretation Questions ([PDF]({{< baseurl >}}/
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Development Day 1 Interpretation Questions ([PDF]({{< baseurl >}}/resources/dev1_interps))
+Development Day 1 Interpretation Questions ({{% resource_link 543bd223-6285-38d4-6da2-7a72bf029929 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dev1_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Development Day 2 Interpretation Questions ([PDF]({{< baseurl >}}/resources/dev2_interps_new))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dev2_interps_ans))
+({{% resource_link 189279d6-6bc0-16b1-7935-5740db9ba5fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Development Day 3 Interpretation Questions ([PDF]({{< baseurl >}}/resources/dev3_interps))
+Development Day 2 Interpretation Questions ({{% resource_link ddf55947-c171-1c6f-8893-c5290ab54613 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dev3_interps_ans))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Development Day 4 Interpretation Questions ([PDF]({{< baseurl >}}/resources/dev4_interps))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dev4_interps_ans))
+({{% resource_link 120ef3f3-9162-6a67-a4a5-1f9f2c7408f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Development Day 5 Interpretation Questions ([PDF]({{< baseurl >}}/resources/dev5_interps))
+Development Day 3 Interpretation Questions ({{% resource_link 16584bd0-1bb0-2ee7-4e05-01293eab6a3c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/dev5_interps_ans))
+({{% resource_link 4adee0d4-6a9b-4c3e-e293-05a639a9d2f3 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Development Day 4 Interpretation Questions ({{% resource_link c9f9913b-cf91-01ad-4d36-3928629cf76b "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link faab38ae-efa3-fcfb-ec68-ad9885fa7a6f "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Development Day 5 Interpretation Questions ({{% resource_link 86566f64-bb00-9ca8-3187-6e23c11a3629 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 63bd788d-50c7-c7b5-719f-888a1ced30d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

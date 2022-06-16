@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: List of links which are meant to be a "virtual appendix" to the four
+  modules in the 7.02 laboratory manual.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -217,7 +219,7 @@ Tutorial on searching online databases.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-BLAST Tutorial Worksheet ([PDF]({{< baseurl >}}/resources/blast_tut_wksht))
+BLAST Tutorial Worksheet ({{% resource_link ccbf7c82-bb8a-7e64-7e6d-5373e27f42b9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Download this worksheet before beginning the BLAST tutorial!
@@ -226,7 +228,7 @@ Download this worksheet before beginning the BLAST tutorial!
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-BLAST Tutorial Answer Key ([PDF]({{< baseurl >}}/resources/blast_key_sp05))
+BLAST Tutorial Answer Key ({{% resource_link f50ed963-1db8-5094-893e-4baec055256f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Answers to the BLAST tutorial worksheet.

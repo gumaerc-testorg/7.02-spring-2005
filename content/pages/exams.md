@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about the preparation for 7.02 exams
+  and lists a set of exam study questions according to modules along with their answers
+  as well as example exam keys.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -30,10 +33,10 @@ ANSWERS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Genetics Exam Study Questions ([PDF]({{< baseurl >}}/resources/gensq_sp05))
+Genetics Exam Study Questions ({{% resource_link 2a8bbb1e-65dd-b900-b3a8-dc20387eab5f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/gensqa_sp05))
+({{% resource_link 1083a72b-c9dc-c430-67ea-af2e509b9042 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,14 +48,14 @@ Genetics Exam Study Questions ([PDF]({{< baseurl >}}/resources/gensq_sp05))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Protein Biochemistry Exam Study Questions ([PDF]({{< baseurl >}}/resources/pbc_studyqs_sp05))
+Protein Biochemistry Exam Study Questions ({{% resource_link 1941ec6f-73f4-f247-2732-df6023bad775 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/pbc_sqa_sp05))
+({{% resource_link 3dda501e-afbc-97bd-4461-274e0fb59d42 "PDF" %}})
 
-Correction to Protein Biochemistry Study Question Answer Key (Problem 2f) ([PDF]({{< baseurl >}}/resources/pbc_sqa_corr))
+Correction to Protein Biochemistry Study Question Answer Key (Problem 2f) ({{% resource_link 465980c4-5448-1314-d4f0-42c4af6d1e22 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -68,20 +71,20 @@ Correction to Protein Biochemistry Study Question Answer Key (Problem 2f) ([PDF]
 {{< tdopen >}}
 
 
-Recombinant DNA Methods Study Questions ([PDF]({{< baseurl >}}/resources/rdm_sq_sp05))
+Recombinant DNA Methods Study Questions ({{% resource_link 94d8fde5-e9f1-b429-4d4d-3d9ea701c5f2 "PDF" %}})
 
-More Recombinant DNA Methods Study Questions ([PDF]({{< baseurl >}}/resources/rdm_more_sq))
+More Recombinant DNA Methods Study Questions ({{% resource_link aa105c77-ca42-f5ee-fc95-c437f7c760fe "PDF" %}})
 
-Recombinant DNA Methods Study Question 3 Edited ([PDF]({{< baseurl >}}/resources/rdm_sq_q3_sp05))
+Recombinant DNA Methods Study Question 3 Edited ({{% resource_link 3795eebc-4ba4-4081-40ca-122bec7664e0 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Recombinant DNA Methods Study Question Answers ([PDF]({{< baseurl >}}/resources/rdm_sqa_sp05))
+Recombinant DNA Methods Study Question Answers ({{% resource_link e711431a-2893-bc74-aa48-bba2f6ca58ab "PDF" %}})
 
-More Recombinant DNA Methods Study Question Answers ([PDF]({{< baseurl >}}/resources/rdm_more_sqa))
+More Recombinant DNA Methods Study Question Answers ({{% resource_link 06a9e149-4113-6b3b-15f3-df5414b985c5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -95,10 +98,10 @@ More Recombinant DNA Methods Study Question Answers ([PDF]({{< baseurl >}}/resou
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Development Exam Study Questions ([PDF]({{< baseurl >}}/resources/devsq_sp05))
+Development Exam Study Questions ({{% resource_link 535bf5b1-09fc-e4dd-df63-555c741e3f13 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Development Exam Study Question Answers ([PDF]({{< baseurl >}}/resources/devsqa_sp05))
+Development Exam Study Question Answers ({{% resource_link afc026bd-3f9d-b1c8-078e-8668dc87b31d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,6 +111,6 @@ Development Exam Study Question Answers ([PDF]({{< baseurl >}}/resources/devsqa
 Example Exam Keys
 -----------------
 
-Genetics Exam Key ([PDF]({{< baseurl >}}/resources/gen_sp05_fin_wk))
+Genetics Exam Key ({{% resource_link d2e6cfa1-80a1-937a-7393-2e7dbb6f2e8f "PDF" %}})
 
-Recombinant DNA Methods Exam Key ([PDF]({{< baseurl >}}/resources/rdm_sp05_webkey))
+Recombinant DNA Methods Exam Key ({{% resource_link 7df20acf-e246-0de7-dd27-1fbfe3aa70ce "PDF" %}})
