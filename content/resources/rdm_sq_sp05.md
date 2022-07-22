@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/94d8fde5e9f1b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rdm_sq_sp05.pdf
 uid: 94d8fde5-e9f1-b429-4d4d-3d9ea701c5f2
 ---
 This resource provides information on recombinant DNA methods exam study questions.
-

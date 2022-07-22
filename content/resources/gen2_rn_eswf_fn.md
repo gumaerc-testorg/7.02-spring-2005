@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/606f2f4ac1211
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gen2_rn_eswf_fn.pdf
 uid: 606f2f4a-c121-18b2-8a43-f1608ab5bde1
 ---
 This resource includes information about overview of genetics module.
-

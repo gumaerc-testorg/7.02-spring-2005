@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/7df20acfe2460
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rdm_sp05_webkey.pdf
 uid: 7df20acf-e246-0de7-dd27-1fbfe3aa70ce
 ---
 This resource provides information on recombinant DNA methods exam key.
-

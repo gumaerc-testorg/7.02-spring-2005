@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/8bfc59979e67c
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rdm3_recnts_lal.pdf
 uid: 8bfc5997-9e67-c1c7-f0f7-23edf23ab41e
 ---
 This resource includes information about subcloning project-transformation and PCR polymerase chain reaction.
-

@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/9a7cb85148f5d
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

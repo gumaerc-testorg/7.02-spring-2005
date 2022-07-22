@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/77337c04df609
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gen3_interps_sp5.pdf
 uid: 77337c04-df60-98a2-e7f4-3855e6c19d5b
 ---
 This resource provides intrepretation questions for genetics day 3.
-

@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/543bd22362853
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dev1_interps.pdf
 uid: 543bd223-6285-38d4-6da2-7a72bf029929
 ---
 This resource provides intrepretation questions for development day 1.
-

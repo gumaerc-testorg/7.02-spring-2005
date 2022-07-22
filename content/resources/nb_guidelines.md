@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/216ed91aed611
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nb_guidelines.pdf
 uid: 216ed91a-ed61-15c0-1e9e-ee3d36512c93
 ---
 A handout describing how to prepare your laboratory notebook each day and how it will be graded.
-

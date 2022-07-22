@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/64a4ef15c6064
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gen3_interps_ans.pdf
 uid: 64a4ef15-c606-427d-80e9-f50e7e47e257
 ---
 This resource provides genetics questions along with their answers for development day 3.
-

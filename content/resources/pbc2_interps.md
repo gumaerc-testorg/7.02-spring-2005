@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/ee2ac5ad0f74d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pbc2_interps.pdf
 uid: ee2ac5ad-0f74-db8a-607e-032df724ad05
 ---
 This resource provides intrepretation questions for PBC day 2.
-

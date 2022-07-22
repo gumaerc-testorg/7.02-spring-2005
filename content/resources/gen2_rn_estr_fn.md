@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/72a560ee41698
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gen2_rn_estr_fn.pdf
 uid: 72a560ee-4169-8d10-8909-42f47234ac05
 ---
 This resource provides information about overview of genetics module and mutagenesis strategy.
-

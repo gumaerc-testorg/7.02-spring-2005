@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/81a5f9b140889
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pbc6_nts_aa_sp5.pdf
 uid: 81a5f9b1-4088-9dae-626b-3e932742660c
 ---
 This resource includes information about enzyme kinetics and its characteristics.
-

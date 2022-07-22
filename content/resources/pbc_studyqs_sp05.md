@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/1941ec6f73f4f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pbc_studyqs_sp05.pdf
 uid: 1941ec6f-73f4-f247-2732-df6023bad775
 ---
 This resource provides information on protein biochemistry study questions.
-

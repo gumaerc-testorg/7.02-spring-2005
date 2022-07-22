@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/f56ea77407ef0
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rdm_overview.pdf
 uid: f56ea774-07ef-0a00-5a97-47b11a6baa78
 ---
 This resource includes information about subclonning and expression of GFP and PCR analysis of ara mutant.
-

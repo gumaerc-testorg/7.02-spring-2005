@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/2a8bbb1e65ddb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gensq_sp05.pdf
 uid: 2a8bbb1e-65dd-b900-b3a8-dc20387eab5f
 ---
 This resource provides information on microbial genetics exam study questions.
-

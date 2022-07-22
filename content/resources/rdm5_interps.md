@@ -5,6 +5,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/cf8e09a5b4c48
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rdm5_interps.pdf
 uid: cf8e09a5-b4c4-813a-4d4a-5201ef5df557
 ---
 This resource provides intrepretation questions for RDM day 5.
-

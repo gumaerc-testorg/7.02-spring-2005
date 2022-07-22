@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/73538eda2c4fc
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gen3_recnotes_es.pdf
 uid: 73538eda-2c4f-c6ec-2629-95eecdedbd23
 ---
 This resource includes information about characterization of putative Ara-mutants, lacZ expression (to produce ?-galactosidase) and lambda titration.
-

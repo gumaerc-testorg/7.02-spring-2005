@@ -7,6 +7,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/a550f9f7d2d19
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: gen4_recnts_esfn.pdf
 uid: a550f9f7-d2d1-96f6-d3c7-bd7ebfee404b
 ---
 This resource includes information about MOI calculations, generalized transduction, type of MOI required for each experiment in the GEN module, and why and chloroform.
-

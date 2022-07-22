@@ -6,6 +6,7 @@ file: /courses/7-02-experimental-biology-communication-spring-2005/faab38aeefa3f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dev4_interps_ans.pdf
 uid: faab38ae-efa3-fcfb-ec68-ad9885fa7a6f
 ---
 This resource provides intrepretation questions along with their answers for development day 4.
-
