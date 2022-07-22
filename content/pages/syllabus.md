@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the course description, scientific
+  communication, class meetings, textbooks and class notes, laboratory information,
+  course policies and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1d90dfb7-144d-6af1-7356-fa538dcc83fc
 ---
@@ -137,13 +142,13 @@ Scientific Communication
 
 Many students perform below their potential on their first exam. Often this is because the students fail to prepare effectively for the type of exam that is given in this course. Exams in 7.02 / 10.702 are not generally recall (memorizing) type exams - though there will likely be at least one "recall" question on each exam. Rather, our exam questions are designed to make you think about what you've learned in lecture and laboratory, and to apply it to a new situation. For example, we may ask you to analyze a set of data and formulate a model, or ask you to figure out how a change in the protocol might affect your results. If you have to do calculations in a particular module, there is a great chance that you will have to perform similar calculation on that module's exam.
 
-More information about studying for the exams as well as an example set of exam study questions can be found in the [exams]({{< baseurl >}}/pages/exams) section.
+More information about studying for the exams as well as an example set of exam study questions can be found in the {{% resource_link 0b66e8dd-4b26-603e-ddaa-1768a010e0e4 "exams" %}} section.
 
 ### Laboratory Performance
 
 Your laboratory performance score will be assessed based on your written record of experimental procedures (laboratory notebook) (55%) and your in-lab skill (45%).
 
-Information about the laboratory notebook score and in-lab skill score is provided in the [labs]({{< baseurl >}}/pages/labs) section.
+Information about the laboratory notebook score and in-lab skill score is provided in the {{% resource_link 8b88dd46-cc8f-9062-9d7c-8cc6b91e2f49 "labs" %}} section.
 
 ### SciComm
 
