@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on microbial genetics exam study questions
   along with the answer keys.
-file: /courses/7-02-experimental-biology-communication-spring-2005/1083a72bc9dcc43067eaaf2e509b9042_gensqa_sp05.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/1083a72bc9dcc43067eaaf2e509b9042_gensqa_sp05.pdf
+file_size: 261013
 file_type: application/pdf
 learning_resource_types:
 - Exams

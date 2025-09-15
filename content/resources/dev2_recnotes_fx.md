@@ -3,7 +3,8 @@ content_type: resource
 description: This resource includes information about RNA, denaturants, embryonic
   staging bymorphological criteria, teratogen and teratogenesis, how does teratogen
   work and teratogen vs mutagen.
-file: /courses/7-02-experimental-biology-communication-spring-2005/098be6277929ab2fd119c3f12cd0ccca_dev2_recnotes_fx.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/098be6277929ab2fd119c3f12cd0ccca_dev2_recnotes_fx.pdf
+file_size: 250203
 file_type: application/pdf
 learning_resource_types:
 - Recitations

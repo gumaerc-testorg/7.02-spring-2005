@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-02-experimental-biology-communication-spring-2005/9a7cb85148f5df7f8040ed658ac1d364_sds_pg_protocols.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/9a7cb85148f5df7f8040ed658ac1d364_sds_pg_protocols.pdf
+file_size: 557177
 file_type: application/pdf
 learning_resource_types:
 - Recitations

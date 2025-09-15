@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about sterile techniques, media, growth
   curve and indicator plates.
-file: /courses/7-02-experimental-biology-communication-spring-2005/71b1cd276ae7acac7ba3f9e0ab347b1d_gen1_recnts_esfn.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/71b1cd276ae7acac7ba3f9e0ab347b1d_gen1_recnts_esfn.pdf
+file_size: 100205
 file_type: application/pdf
 learning_resource_types:
 - Recitations

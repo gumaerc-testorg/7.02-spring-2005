@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about overview of genetics module
   and mutagenesis strategy.
-file: /courses/7-02-experimental-biology-communication-spring-2005/72a560ee41698d10890942f47234ac05_gen2_rn_estr_fn.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/72a560ee41698d10890942f47234ac05_gen2_rn_estr_fn.pdf
+file_size: 202788
 file_type: application/pdf
 learning_resource_types:
 - Recitations

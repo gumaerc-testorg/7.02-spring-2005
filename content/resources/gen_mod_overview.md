@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about the overview of microbial genetics
   module.
-file: /courses/7-02-experimental-biology-communication-spring-2005/db5dc9421b72d4216c71e86e9c2d4a62_gen_mod_overview.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/db5dc9421b72d4216c71e86e9c2d4a62_gen_mod_overview.pdf
+file_size: 365967
 file_type: application/pdf
 learning_resource_types:
 - Recitations

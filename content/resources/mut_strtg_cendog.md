@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about the central dogma of biology
   and how it relates to the Gen Module.
-file: /courses/7-02-experimental-biology-communication-spring-2005/d2f6f3a5f196ac6a4700aee65d49a70b_mut_strtg_cendog.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/d2f6f3a5f196ac6a4700aee65d49a70b_mut_strtg_cendog.pdf
+file_size: 302012
 file_type: application/pdf
 learning_resource_types:
 - Recitations

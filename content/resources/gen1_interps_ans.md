@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource provides genetics questions along with their answers for
   development day 1.
-file: /courses/7-02-experimental-biology-communication-spring-2005/87238c4af79c79d7a56e971f66554b76_gen1_interps_ans.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/87238c4af79c79d7a56e971f66554b76_gen1_interps_ans.pdf
+file_size: 87681
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

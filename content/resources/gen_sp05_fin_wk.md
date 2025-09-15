@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on microbial genetics exam along with
   the exam grading key.
-file: /courses/7-02-experimental-biology-communication-spring-2005/d2e6cfa180a1937a73932e7dbb6f2e8f_gen_sp05_fin_wk.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/d2e6cfa180a1937a73932e7dbb6f2e8f_gen_sp05_fin_wk.pdf
+file_size: 144254
 file_type: application/pdf
 learning_resource_types:
 - Exams

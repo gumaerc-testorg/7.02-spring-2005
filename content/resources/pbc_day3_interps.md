@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource provides intrepretation questions for PBC day 3.
-file: /courses/7-02-experimental-biology-communication-spring-2005/859503ff40a73be1de5a4299956d7ad6_pbc_day3_interps.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/859503ff40a73be1de5a4299956d7ad6_pbc_day3_interps.pdf
+file_size: 54226
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

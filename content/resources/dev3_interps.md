@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource provides intrepretation questions for development day 3.
-file: /courses/7-02-experimental-biology-communication-spring-2005/16584bd01bb02ee74e0501293eab6a3c_dev3_interps.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/16584bd01bb02ee74e0501293eab6a3c_dev3_interps.pdf
+file_size: 51741
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

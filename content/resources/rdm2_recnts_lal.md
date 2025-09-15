@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about CIP (calf intestinal phosphatase)
   treatment of vector, gel purification/isolation, ligation and inoculate ara-mutant.
-file: /courses/7-02-experimental-biology-communication-spring-2005/ec88ffead18c49fc6e7ff0dffa6247e1_rdm2_recnts_lal.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/ec88ffead18c49fc6e7ff0dffa6247e1_rdm2_recnts_lal.pdf
+file_size: 115726
 file_type: application/pdf
 learning_resource_types:
 - Recitations

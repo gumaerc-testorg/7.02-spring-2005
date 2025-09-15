@@ -7,7 +7,8 @@ description: 'This resource includes information about development: from a singl
   biology, study development
 
   at morphological and molecular level and RNA vs DNA.'
-file: /courses/7-02-experimental-biology-communication-spring-2005/c61f348a79b3e3cea88b0ad918c53733_dev1_recnotes_fx.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/c61f348a79b3e3cea88b0ad918c53733_dev1_recnotes_fx.pdf
+file_size: 313205
 file_type: application/pdf
 learning_resource_types:
 - Recitations

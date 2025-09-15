@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about miniprep protocol and PCR polymerase
   chain reaction.
-file: /courses/7-02-experimental-biology-communication-spring-2005/8aaca942c3b838fa89fea8f58b899465_rdm4_recnts_lal.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/8aaca942c3b838fa89fea8f58b899465_rdm4_recnts_lal.pdf
+file_size: 344767
 file_type: application/pdf
 learning_resource_types:
 - Recitations

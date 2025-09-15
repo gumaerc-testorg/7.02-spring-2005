@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource provides information on recombinant DNA methods exam key.
-file: /courses/7-02-experimental-biology-communication-spring-2005/7df20acfe2460de7dd271fbfe3aa70ce_rdm_sp05_webkey.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/7df20acfe2460de7dd271fbfe3aa70ce_rdm_sp05_webkey.pdf
+file_size: 99381
 file_type: application/pdf
 learning_resource_types:
 - Exams

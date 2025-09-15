@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-02-experimental-biology-communication-spring-2005/93b6dbfd05ccfe24359fee6994cc4586_gen_sp05_mkup_wk.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/93b6dbfd05ccfe24359fee6994cc4586_gen_sp05_mkup_wk.pdf
+file_size: 141657
 file_type: application/pdf
 learning_resource_types:
 - Exams

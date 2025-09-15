@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on recombinant DNA methods additional
   exam study questions along with the answer key.
-file: /courses/7-02-experimental-biology-communication-spring-2005/06a9e14941136b3b15f3df5414b985c5_rdm_more_sqa.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/06a9e14941136b3b15f3df5414b985c5_rdm_more_sqa.pdf
+file_size: 87346
 file_type: application/pdf
 learning_resource_types:
 - Exams

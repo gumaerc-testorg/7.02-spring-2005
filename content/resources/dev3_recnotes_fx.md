@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about RNA fixation, how is RNA/DNA
   transferred?, UV crosslinking and probe labeling vs PCR.
-file: /courses/7-02-experimental-biology-communication-spring-2005/f73f24311d1fda6cfd0ebda6714a37ed_dev3_recnotes_fx.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/f73f24311d1fda6cfd0ebda6714a37ed_dev3_recnotes_fx.pdf
+file_size: 113442
 file_type: application/pdf
 learning_resource_types:
 - Recitations

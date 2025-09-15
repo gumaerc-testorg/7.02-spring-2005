@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about zebrafish development and teratogenesis
   and LiCl post fertilization.
-file: /courses/7-02-experimental-biology-communication-spring-2005/3b2b87372c6b5b6e7c586efdef36f9b8_dev5_recnotes_fx.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/3b2b87372c6b5b6e7c586efdef36f9b8_dev5_recnotes_fx.pdf
+file_size: 97214
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource includes information about genetic linkage, metabolism:
   catabolism vs. anabolism and cotransduction mapping.'
-file: /courses/7-02-experimental-biology-communication-spring-2005/32f861b54337b746687b1779b444e35b_gen6_recnts_esfn.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/32f861b54337b746687b1779b444e35b_gen6_recnts_esfn.pdf
+file_size: 86073
 file_type: application/pdf
 learning_resource_types:
 - Recitations

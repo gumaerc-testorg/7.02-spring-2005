@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource includes questions on BLAST tutorial worksheet.
-file: /courses/7-02-experimental-biology-communication-spring-2005/ccbf7c82bb8a7e647e6d5373e27f42b9_blast_tut_wksht.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/ccbf7c82bb8a7e647e6d5373e27f42b9_blast_tut_wksht.pdf
+file_size: 21379
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource provides intrepretation questions along with their answers
   for PBC day 6.
-file: /courses/7-02-experimental-biology-communication-spring-2005/b68e75c8cce4353838f203826c19bf4d_pbc6_interps_ans.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/b68e75c8cce4353838f203826c19bf4d_pbc6_interps_ans.pdf
+file_size: 105948
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

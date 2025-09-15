@@ -4,7 +4,8 @@ description: This resource includes information about quantitative and qualitati
   assessment of purity/concentration, sodium dodecyl sulphate-poly acrylamide gel
   electrophoresis, ?-mercaptoethanol, glycerol, bromophenol blue dye, tris and BSA
   standard curve.
-file: /courses/7-02-experimental-biology-communication-spring-2005/8a14e5a80955e62ff7e503c1a4ec97e8_pbc4_nts_aa_sp5.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/8a14e5a80955e62ff7e503c1a4ec97e8_pbc4_nts_aa_sp5.pdf
+file_size: 1355548
 file_type: application/pdf
 learning_resource_types:
 - Recitations

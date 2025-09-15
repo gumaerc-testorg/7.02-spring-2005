@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about subclonning and expression of
   GFP and PCR analysis of ara mutant.
-file: /courses/7-02-experimental-biology-communication-spring-2005/f56ea77407ef0a005a9747b11a6baa78_rdm_overview.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/f56ea77407ef0a005a9747b11a6baa78_rdm_overview.pdf
+file_size: 159772
 file_type: application/pdf
 learning_resource_types:
 - Recitations

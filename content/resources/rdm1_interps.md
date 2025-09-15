@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource provides intrepretation questions for RDM day 1.
-file: /courses/7-02-experimental-biology-communication-spring-2005/0b61174cb78c2b2b4e99708b2f7b9dd6_rdm1_interps.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/0b61174cb78c2b2b4e99708b2f7b9dd6_rdm1_interps.pdf
+file_size: 55472
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource provides intrepretation questions for genetics day 6.
-file: /courses/7-02-experimental-biology-communication-spring-2005/c95d0b34f076512fbf41f9f1d6663c86_gen6_interpsfin.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/c95d0b34f076512fbf41f9f1d6663c86_gen6_interpsfin.pdf
+file_size: 64964
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource provides information on RDM exam study questions no. 3.
-file: /courses/7-02-experimental-biology-communication-spring-2005/3795eebc4ba4408140ca122bec7664e0_rdm_sq_q3_sp05.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/3795eebc4ba4408140ca122bec7664e0_rdm_sq_q3_sp05.pdf
+file_size: 104805
 file_type: application/pdf
 learning_resource_types:
 - Exams

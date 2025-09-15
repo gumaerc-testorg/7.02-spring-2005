@@ -3,7 +3,8 @@ content_type: resource
 description: This resource includes information about why purify proteins, why does
   purification work, ?-galactosidase intro, module overview and ?-galactosidase activity
   assay.
-file: /courses/7-02-experimental-biology-communication-spring-2005/ecafe292aaf942cb4428afba526a16e9_pbc1_nts_aa_sp5.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/ecafe292aaf942cb4428afba526a16e9_pbc1_nts_aa_sp5.pdf
+file_size: 320707
 file_type: application/pdf
 learning_resource_types:
 - Recitations

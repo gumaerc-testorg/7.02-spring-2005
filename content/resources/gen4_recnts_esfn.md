@@ -3,7 +3,8 @@ content_type: resource
 description: This resource includes information about MOI calculations, generalized
   transduction, type of MOI required for each experiment in the GEN module, and why
   and chloroform.
-file: /courses/7-02-experimental-biology-communication-spring-2005/a550f9f7d2d196f6d3c7bd7ebfee404b_gen4_recnts_esfn.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/a550f9f7d2d196f6d3c7bd7ebfee404b_gen4_recnts_esfn.pdf
+file_size: 97406
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about examples of gel from PCR analysis
   of ara mutants and subcloning project.
-file: /courses/7-02-experimental-biology-communication-spring-2005/85388dafc7d3d1711a75a92d76592edf_rdm5_recnts_lal.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/85388dafc7d3d1711a75a92d76592edf_rdm5_recnts_lal.pdf
+file_size: 156502
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -4,7 +4,7 @@ description: This section provides information about the laboratory performance,
   lists a set of interpretation questions according to the modules along with their
   answers.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 8b88dd46-cc8f-9062-9d7c-8cc6b91e2f49

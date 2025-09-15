@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about column chromatography, size
   exclusion chromatography, pK's of amino acids and anion exchange chromatography.
-file: /courses/7-02-experimental-biology-communication-spring-2005/072cbb0c40f6eaf4be5887c6b48a0edb_pbc2_nts_aa_sp5.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/072cbb0c40f6eaf4be5887c6b48a0edb_pbc2_nts_aa_sp5.pdf
+file_size: 673607
 file_type: application/pdf
 learning_resource_types:
 - Recitations

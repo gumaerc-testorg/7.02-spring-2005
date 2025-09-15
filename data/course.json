@@ -41,7 +41,7 @@
     "website": "7-02-experimental-biology-communication-spring-2005"
   },
   "course_title": "Experimental Biology & Communication",
-  "course_description": "This introductory biology laboratory course covers the application of experimental techniques in microbiology, biochemistry, cell and developmental biology. Emphasis is placed on the integration of factual knowledge with understanding of the design of the experiments and data analysis in order to prepare the students for future research projects. Development of skills critical for writing about scientific findings in modern biology is also covered in the Scientific Communications portion of the curriculum, [7.02CI](courses/7-02ci-experimental-biology-communications-intensive-spring-2005).\n\n##### {{< anchor \"faculty\" >}}{{< /anchor >}}Additional Faculty\n\nDr. Katherine Bacon Schneider\n\nDr. Jean-Francois Hamel\n\nMs. Deborah Kruzel\n\nDr. Megan Rokop\n",
+  "course_description": "This introductory biology laboratory course covers the application of experimental techniques in microbiology, biochemistry, cell and developmental biology. Emphasis is placed on the integration of factual knowledge with understanding of the design of the experiments and data analysis in order to prepare the students for future research projects. Development of skills critical for writing about scientific findings in modern biology is also covered in the Scientific Communications portion of the curriculum, [7.02CI](/courses/7-02ci-experimental-biology-communications-intensive-spring-2005).\n\n##### {{< anchor \"faculty\" >}}{{< /anchor >}}Additional Faculty\n\nDr. Katherine Bacon Schneider\n\nDr. Jean-Francois Hamel\n\nMs. Deborah Kruzel\n\nDr. Megan Rokop\n",
   "department_numbers": [
     "7",
     "10"
@@ -57,6 +57,7 @@
     "Demonstration Videos"
   ],
   "site_uid": "6cc17255-2c42-4a48-ab05-657e297623cf",
-  "short_id": "7.02-spring-2005",
+  "site_short_id": "7.02-spring-2005",
+  "site_url_path": "courses/7-02-experimental-biology-communication-spring-2005",
   "title": "Course Metadata"
 }

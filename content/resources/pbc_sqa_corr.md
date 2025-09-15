@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on protein biochemistry study question
   no. 2.
-file: /courses/7-02-experimental-biology-communication-spring-2005/465980c454481314d4f042c4af6d1e22_pbc_sqa_corr.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/465980c454481314d4f042c4af6d1e22_pbc_sqa_corr.pdf
+file_size: 58435
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource provides intrepretation questions along with their answers
   for RDM day 3.
-file: /courses/7-02-experimental-biology-communication-spring-2005/135cf51a47d71513b987c2c9d3724d71_rdm3_interps_ans.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/135cf51a47d71513b987c2c9d3724d71_rdm3_interps_ans.pdf
+file_size: 90631
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

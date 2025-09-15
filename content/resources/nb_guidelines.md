@@ -2,10 +2,11 @@
 content_type: resource
 description: A handout describing how to prepare your laboratory notebook each day
   and how it will be graded.
-file: /courses/7-02-experimental-biology-communication-spring-2005/216ed91aed6115c01e9eee3d36512c93_nb_guidelines.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/216ed91aed6115c01e9eee3d36512c93_nb_guidelines.pdf
+file_size: 100038
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

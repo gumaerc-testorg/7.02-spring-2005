@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource includes information about subcloning project-transformation
   and PCR polymerase chain reaction.
-file: /courses/7-02-experimental-biology-communication-spring-2005/8bfc59979e67c1c7f0f723edf23ab41e_rdm3_recnts_lal.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/8bfc59979e67c1c7f0f723edf23ab41e_rdm3_recnts_lal.pdf
+file_size: 1304519
 file_type: application/pdf
 learning_resource_types:
 - Recitations

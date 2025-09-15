@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on development exam study questions
   along with the answer keys.
-file: /courses/7-02-experimental-biology-communication-spring-2005/afc026bd3f9db1c8078e8668dc87b31d_devsqa_sp05.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/afc026bd3f9db1c8078e8668dc87b31d_devsqa_sp05.pdf
+file_size: 136154
 file_type: application/pdf
 learning_resource_types:
 - Exams

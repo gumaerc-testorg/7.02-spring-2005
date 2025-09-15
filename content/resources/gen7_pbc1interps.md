@@ -2,10 +2,11 @@
 content_type: resource
 description: This resource provides intrepretation questions for genetics day 7 and
   protein biochemistry day 1.
-file: /courses/7-02-experimental-biology-communication-spring-2005/a20e727cbabb3116186b3f23c1a5219d_gen7_pbc1interps.pdf
+file: /ol-ocw-studio-app/courses/7-02-experimental-biology-communication-spring-2005/a20e727cbabb3116186b3f23c1a5219d_gen7_pbc1interps.pdf
+file_size: 61212
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
